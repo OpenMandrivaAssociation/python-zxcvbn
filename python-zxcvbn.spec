@@ -1,6 +1,6 @@
 Name:		python-zxcvbn
 Version:	4.5.0
-Release:	1
+Release:	2
 Summary:	zxcvbn
 License:	MIT
 Group:		Development/Python
